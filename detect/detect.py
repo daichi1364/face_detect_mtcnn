@@ -1,6 +1,6 @@
 import mtcnn
 import cv2
-import inspect as ins
+
 import matplotlib.pyplot as plt
 
 
